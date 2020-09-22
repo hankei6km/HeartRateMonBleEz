@@ -1,2 +1,2 @@
-# HeartRateMonBleEz
+# BleEz
 Created with CodeSandbox
